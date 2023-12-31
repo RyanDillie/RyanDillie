@@ -16,6 +16,6 @@
 [<img align="left" alt="Ryan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Ryan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Ryan
+[twitter]: https://twitter.com/ryan_dillie
 [instagram]: https://www.instagram.com/Ryan
 [linkedin]: https://www.linkedin.com/in/ryan-dillie-969a8b298/
