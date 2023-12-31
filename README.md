@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Ryan
 [instagram]: https://www.instagram.com/Ryan
-[linkedin]: [https://linkedin.com/in/Ryan](https://www.linkedin.com/in/ryan-dillie-969a8b298/)https://www.linkedin.com/in/ryan-dillie-969a8b298/
+[linkedin]: https://www.linkedin.com/in/ryan-dillie-969a8b298/
