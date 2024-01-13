@@ -7,8 +7,8 @@
   - [osTicket: Post-Installation Configuration](https://github.com/RyanDillie/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/RyanDillie/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/RyanDillie/configure-ad)
   - [Creating a Virtual Machine on Azure](https://github.com/RyanDillie/virtual-machine)
+  - [Configuring Active Directory within Azure VMs](https://github.com/RyanDillie/configure-ad)
 
 <h2>🤳Connect with me:</h2>
 
